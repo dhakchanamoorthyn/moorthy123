@@ -1,1 +1,23 @@
 welcome to my github site
+
+
+<html>
+    <head>
+        <!--meta http-equiv="refresh" content="0; url=https://www.youtube.com"-->
+        <meta http-equiv="refresh" content="3; url=dip.pdf">
+        <title>dip model</title>
+        <style>
+            .download{text-align: center;color: red;text-transform: capitalize;}
+            p a{color:green;text-decoration-line: none;}
+        </style>
+    </head>
+    <body>
+        <div class="download">
+          <p>your download start in just few seconds</p>  
+          <p>if not started <a href="dip.pdf" download="dip qp">click here</a></p>
+        </div>
+    </body>
+    <!--script> // Javascript code for autodownload & we can also write it in meta tag
+    document.location.href = 'sample-code.doc';           
+    </script-->
+</html>
